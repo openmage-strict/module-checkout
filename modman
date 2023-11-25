@@ -1,0 +1,7 @@
+src/app/code/core/Mage/Checkout/                                app/code/core/Mage/Checkout/
+src/app/design/frontend/base/default/layout/checkout.xml        app/design/frontend/base/default/layout/checkout.xml
+src/app/design/frontend/base/default/template/checkout/         app/design/frontend/base/default/template/checkout/
+src/app/design/frontend/rwd/default/layout/checkout.xml         app/design/frontend/rwd/default/layout/checkout.xml
+src/app/design/frontend/rwd/default/template/checkout/          app/design/frontend/rwd/default/template/checkout/
+src/app/etc/modules/Mage_Checkout.xml                           app/etc/modules/Mage_Checkout.xml
+src/app/locale/en_US/Mage_Checkout.csv                          app/locale/en_US/Mage_Checkout.csv

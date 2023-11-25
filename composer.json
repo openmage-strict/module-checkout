@@ -1,0 +1,11 @@
+{
+    "name": "openmage-strict/module-checkout",
+    "description": "Mage_Checkout",
+    "license": "OSL-3.0",
+    "type": "magento-module",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*",
+        "openmage-strict/module-catalog-inventory": "*",
+        "openmage-strict/module-sales": "*"
+    }
+}
