@@ -5,3 +5,4 @@ src/app/design/frontend/rwd/default/layout/checkout.xml         app/design/front
 src/app/design/frontend/rwd/default/template/checkout/          app/design/frontend/rwd/default/template/checkout/
 src/app/etc/modules/Mage_Checkout.xml                           app/etc/modules/Mage_Checkout.xml
 src/app/locale/en_US/Mage_Checkout.csv                          app/locale/en_US/Mage_Checkout.csv
+src/app/locale/en_US/template/email/payment_failed.html         app/locale/en_US/template/email/payment_failed.html
