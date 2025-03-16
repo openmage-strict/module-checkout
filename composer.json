@@ -6,6 +6,8 @@
     "require": {
         "magento-hackathon/magento-composer-installer": "*",
         "openmage-strict/module-catalog-inventory": "^120.2",
-        "openmage-strict/module-sales": "^120.2"
+        "openmage-strict/module-sales": "^120.2",
+        "zf1s/zend-controller": "*",
+        "zf1s/zend-db": "*"
     }
 }
